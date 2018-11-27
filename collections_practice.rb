@@ -10,5 +10,5 @@ def contain_a(array)
 end 
 
 def first_wa(array)
-  array.find {|word| word}
+  array.find {|word| word.to}
 end 
