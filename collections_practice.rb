@@ -12,3 +12,7 @@ end
 def first_wa(array)
   array.find {|word| word.to_s.start_with?("wa")}
 end 
+
+def remove_non_strings
+  
+end 
